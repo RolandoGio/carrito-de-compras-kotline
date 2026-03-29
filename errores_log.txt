@@ -1,0 +1,13 @@
+2026-03-17 01:43:07 | ERROR | leerEntero | Entrada invalida para entero: 'a'
+2026-03-17 01:43:23 | ERROR | leerDoublePositivo | Entrada invalida para decimal: 'acbd'
+2026-03-17 01:43:29 | ERROR | leerDoublePositivo | Entrada invalida para decimal: ''
+2026-03-17 01:43:34 | ERROR | leerDoublePositivo | Entrada invalida para decimal: ''
+2026-03-17 02:34:01 | ERROR | leerDoublePositivo | Entrada invalida para decimal: 'v ndkvld'
+2026-03-17 02:34:05 | ERROR | leerDoublePositivo | Entrada invalida para decimal: 'cmpsmspmc'
+2026-03-17 02:34:13 | ERROR | leerEntero | Entrada invalida para entero: 'dnndd'
+2026-03-17 02:51:55 | ERROR | main | Intento de eliminar producto no existente en carrito: c,C E,D,C
+2026-03-17 02:51:59 | ERROR | main | Se intento confirmar una compra con el carrito vacio.
+2026-03-17 02:54:47 | ERROR | main | Se intento confirmar una compra con el carrito vacio.
+2026-03-17 03:04:50 | ERROR | leerDoublePositivo | Entrada invalida para decimal: 'dvd'
+2026-03-29 10:28:33 | ERROR | leerEntero | Entrada invalida para entero: ''
+2026-03-29 10:28:33 | ERROR | leerEntero | Entrada invalida para entero: ''

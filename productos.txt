@@ -1,0 +1,3 @@
+celeste|9.99|4|plataforma|PC
+Sekiro|59.99|2|soulslike|PC
+bayoneta|10.0|8|ciencia ficcion|pc
